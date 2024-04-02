@@ -1,2 +1,2 @@
-# Tarefas-em-to-do-and-kanban
-Tarefas no modo kanban e listas
+# Tarefas-em-to-do
+Tarefas no modo listas
